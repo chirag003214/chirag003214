@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm an aspiring tech enthusiast passionate about data scie
 - 🔬 Currently exploring **AI, Machine Learning & Data Science**
 - 👨‍💻 Building cool projects like data-driven apps and intelligent systems
 - 📚 Always learning — from algorithms to deep learning
-- 🎓 Second-year undergrad in Physics at IIT Kharagpur
+- 🎓 Third-year undergrad in Physics at IIT Kharagpur
 - 🎵 Flute player | 🧘 Daily chanting practitioner
 
 ---
