@@ -23,6 +23,12 @@ Here are some noteworthy projects you can explore:
 - **ai-fraud-intelligence-system** — End-to-end fraud detection with explainable AI  
 - **ai-research-assistant** — Tools to assist research and code productivity  
 - **ai-analytics-platform** — Integrated analytics platform (Python)
+- **layer10-assignment** — Grounded long-term memory: LLM entity/claim extraction, deduplication, and a temporal context graph over GitHub issues
+- **meeting-intelligence-service-** — FastAPI + Gemini meeting transcription, analysis, and action-item tracking
+- **eventshield** — AI-powered event traffic management for Bengaluru
+- **empathy-engine** — AI-powered emotional text-to-speech
+- **ads_analyzer** — AI ad creative analyzer with performance scoring and new ad ideas
+- **astroph-weekday-citations** — Does arXiv submission day correlate with citations in astronomy?
 
 > Check out my repos to dive deeper into each project!
 
@@ -32,10 +38,10 @@ Here are some noteworthy projects you can explore:
 
 Here are some of the technologies I use:
 
-- **Languages:** Python, (other languages you want to add)
-- **Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow / PyTorch
+- **Languages:** Python
+- **Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow / PyTorch, FastAPI, Streamlit, LangChain / LangGraph
 - **Tools:** Jupyter Notebook, Git, GitHub
-- **Concepts:** Machine Learning, Data Analysis, AI explainability
+- **Concepts:** Machine Learning, Data Analysis, AI explainability, LLM agents, RAG, knowledge graphs
 
 ---
 
@@ -43,8 +49,8 @@ Here are some of the technologies I use:
 
 Let’s connect! You can reach me through:
 
-- 📧 **Email:** (chirag003214@gmail.com)
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/chirag-sharma-30161226b/)
+- 📧 **Email:** [chirag003214@gmail.com](mailto:chirag003214@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/chirag-sharma-30161226b](https://www.linkedin.com/in/chirag-sharma-30161226b/)
 
 
 ---
